@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.label {
+    margin-left: 6%;
+}
+.strike {
+    text-decoration: line-through;
+    opacity: 70%;
+}
+
+li {
+    margin-top: 15px;
+}
+
+.close {
+    float: right;
+    cursor: pointer;
+}

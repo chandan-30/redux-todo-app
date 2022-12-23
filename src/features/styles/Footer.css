@@ -1,0 +1,48 @@
+.footer {
+    margin-top: 30%;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.footer button{
+    margin-left: 10%;
+    background-color: #34A654;
+    color: white;
+    width: 70px;
+    padding: 10px 10px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.footer input {
+    background-color: #384B83;
+    color: white;
+    border: none;
+    width: 150px;
+    padding: 10px 10px;
+    border-radius: 4px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.footer input:focus{
+    color: white;
+    outline: none;
+}
+
+::-webkit-input-placeholder { /* Edge */
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+  }
+  
+  ::placeholder {
+    color: white;
+    opacity: 60%;
+    font-family: 'DM Sans', sans-serif;
+  }

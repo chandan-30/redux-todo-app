@@ -1,0 +1,15 @@
+.arrow {
+    position: absolute;
+    top:25px
+  }
+
+.dots {
+    position: absolute;
+    right: 10px;
+    top: 25px
+}
+
+.head-div {
+    position: relative;
+    padding: 10px;
+}
